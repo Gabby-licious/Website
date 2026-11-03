@@ -1,0 +1,13 @@
+KEANE GABRIEL S. VENZON — PERSONAL PORTFOLIO
+
+Portfolio gallery
+- 9 tree images, 9 fish images, 9 flower images, 9 mammal images, 9 fruit images, and 9 bird images.
+- The two mammal illustrations (red-wolf-illustration.svg and rabbit-illustration.svg) were created as original vector artwork for this portfolio.
+- The remaining photographs were included in the source archive supplied for this project.
+
+Website requirements followed from psp.txt
+- Display name: My Website
+- Website title: Personal Portfolio
+- Theme: ancient / medieval, brown and beige with red, white, black, and dark brown accents
+- Modern system font stack, responsive mobile layout, and no motion effects
+- Owner: Keane Gabriel S. Venzon (nickname: Gab)
